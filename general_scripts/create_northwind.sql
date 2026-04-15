@@ -1,4 +1,4 @@
-USE testintong
+USE Northwind
 
 CREATE TABLE "Employees" (
 	"EmployeeID" "int" IDENTITY (1, 1) NOT NULL ,
